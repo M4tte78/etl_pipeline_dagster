@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtualenv
+venv/
+.env/
+.venv/
+
+# Jupyter / IPython
+.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Dagster cache/temp
+dagster.yaml
+dagster_logs/
+dagster_storage/
+.mypy_cache/
+.tmp_dagster_home*/
+
+
+# Pytest cache
+.pytest_cache/
+
+# Logs & debug
+*.log
+*.tmp
+*.bak
+
+# dotenv files (optional)
+*.env

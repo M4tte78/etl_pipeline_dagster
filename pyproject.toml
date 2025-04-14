@@ -1,0 +1,2 @@
+[tool.dagster]
+module_name = "etl_pipeline_dagster"
