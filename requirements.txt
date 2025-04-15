@@ -1,0 +1,6 @@
+dagster
+dagster-webserver
+yfinance
+pandas
+matplotlib
+fpdf
