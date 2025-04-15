@@ -73,5 +73,7 @@ pytest tests/
 - [ ] Publier le rapport sur un site statique (GitHub Pages / Netlify)
 
 ---
+![image](https://github.com/user-attachments/assets/fd23b623-5f19-4786-85ff-74acabedc723)
+
 
 Développé avec ❤️ par Mattéo Bailly
